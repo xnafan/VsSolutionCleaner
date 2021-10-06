@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VsSolutionCleaner": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\Users\\jfk\\Desktop\\Companies\\"
+    }
+  }
+}
